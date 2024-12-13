@@ -1,0 +1,28 @@
+1- Sözde sınıf seçiciler anlat(121)
+2- U1 yap
+3- U2 yaptır
+4- Span etiketi açıklamasını göster
+5- Sözde eleman seçicileri anlat.
+6- U3 yap
+7- U4 yaptır.
+8- Metin biçimlendirmeyi anlat.(Btk sf 46 - 6 adet parafraf ile anlat. )
+9- U5 Yaptır-yap
+10- Liste biçimlendirmeyi anlat.(Btk Akademiden)-Günler-Bölgeler- Liste kullanarak Yap 
+11- U6 yaptır.
+12- Kutu yöntemini anlat.
+13- 3 adet div kullan 2 paragraf kullanarak anlat.
+14- U7 yap
+15- Opacity anlat div kullanarak.
+16- Tablo biçimlendirmeyi anlat. (w3school)
+17- U8 yap - Yaptır.
+18- Dikey menu yapmayı anlat. (w3school)
+19- U9 yaptır.
+
+
+
+
+
+
+
+
+

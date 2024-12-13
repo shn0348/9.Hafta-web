@@ -1,0 +1,28 @@
+1- Liste biçimlendirmeyi anlat.
+   (Btk Akademiden)-Günler-Bölgeler- Liste kullanarak Yap 
+2- U1 yaptır.
+3- Kutu yöntemini anlat.
+4- 3 adet div, 2 adet paragraf kullanarak anlat.
+5- U2 yaptır.
+6- Opacity anlat div kullanarak.(4 adet div üzerine gelince)
+7- Tablo biçimlendirmeyi anlat. (w3school)
+8- U3 yap - Yaptır.
+9- Dikey menu yapmayı anlat. (w3school)
+10- U4 yaptır.
+11- Yatay Menü yapımını göster(w3School)
+12- U5-0 yaptır.
+13- Div resimlerinden yerleşimi anlat. 
+14- Box-sizing anlat. Sadık Turan
+15- Box-sizing göster html de(sayfa var olan)
+16- Div uygulamalarını yap-yaptır.
+
+https://www.sadikturan.com/css/css-box-sizing/1328
+
+
+
+
+
+
+
+
+

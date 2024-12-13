@@ -1,0 +1,36 @@
+Css Metin Biçimlendirme
+            
+                1- Bir yazıyı şekil, anlatım ve noktalama özellikleriyle oluşturan 
+                kelimelerin bütününe metin adı verilir. Diğer bir ifadeyle metin, 
+                iletişim kurmak için oluşturulan cümleler topluluğudur. Sözlü ya 
+                da yazılı iletişim için üretilen anlamlı yapıdır. Yazar, iletmek 
+                istediği mesajı metin aracılığıyla ifade eder.
+           
+                2- Bir metin, aralarında anlam, anlatım bakımından ilişki ve bütünlük 
+                bulunan paragraflardan oluşur. İyi kurgulanmış bir metinde, her paragraf 
+                bir düşünce birimidir. Metindeki paragraf sayısı, o metnin içerdiği 
+                düşünce sayısını verir. Bunun nedeniyse her düşüncenin bir paragrafta 
+                tam olarak ortaya konmasıdır. Sözcükler seslerden, cümleler sözcüklerden, 
+                paragraflar ise cümlelerden oluşur.
+            
+                3- Metni oluşturan en büyük yapı paragraftır. Düzyazılarda genellikle satır 
+                başlarıyla birbirlerinden ayrılan bölümlerin her birine paragraf adı verilir. 
+                Paragrafın oluşumu konuyla doğrudan ilgilidir. Çünkü yazar, duygu ve düşüncelerini
+                bir olay ve olgudan hareketle anlatır. Ele aldığı konuyu, amacına göre sınırlayıp
+                birbiriyle ilintili paragraflar hâlinde verir. Bu, metin oluşturulurken uyulması
+                gereken en önemli kurallardan biridir.
+           
+                4- Bir yapboz oluşturmak için parçaların birbirine bağlanmasına gereksinim duyulması 
+                gibi bir metin oluşturmak için de paragrafların birbirine bağlanması gerekir. 
+                Bir görüşün, bir duygunun işlendiği metinlerde de işlenen görüş ve duyguların 
+                birbirini destekleyecek paragraflar şeklinde, mantıksal bir sıra ile ele alınması 
+                gerekir. Örnek olarak olayın işlendiği metinlerde paragrafların zaman, kişi, çevre 
+                gibi öğelerin sırasına dikkat edilmesi gerekir. Buna dikkat edilmezse paragraflar 
+                arasında zaman, kişi, mekân vb. yönlerden karışıklıklar ortaya çıkar, metnin anlaşılması 
+                güçleşir.
+           
+                5- Metindeki paragraflar, bir zincir şeklinde anlam, dil ve anlatım bakımından birbirini 
+                tamamlayan, destekleyen bir bütündür. Bu yapı özelliği sayesinde metinde anlamla yapı 
+                yönüyle bir bütünlük ve uyum ortaya çıkar. Bu bütünlüğün sağlanabilmesi adına metindeki 
+                paragrafların dil ve anlatım yönüyle birbirine bağlanması büyük bir önem taşır.
+           
